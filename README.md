@@ -1,4 +1,10 @@
 ### Hi there 👋
+- I have expertise in tissue engineering, tumor microenvironment, and transcriptomics. 
+- I use both R and python for data processing and analysis.
+- Please reach out if you need any help with the above.
+- See my (blog)[danhdtruong.comm]
+
+
 
 <!--
 **danhtruong/danhtruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
