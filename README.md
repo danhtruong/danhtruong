@@ -2,7 +2,7 @@
 - I have expertise in tissue engineering, tumor microenvironment, and transcriptomics. 
 - I use both R and python for data processing and analysis.
 - Please reach out if you need any help with the above.
-- See my [blog](https://www.danhdtruong.com)
+- See my [blog](http://www.danhdtruong.com)
 
 
 
